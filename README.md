@@ -79,12 +79,6 @@ flutter pub get
 4. Run Application
 flutter run
 
-## Dependencies
-dependencies:
-  flutter:
-    sdk: flutter
-  fl_chart: ^0.68.0
-
 Author
 
 Frederikus Felix Bintang Setyawan
