@@ -19,23 +19,38 @@ This application allows users to add, manage, and analyze expenses through an in
 
 ## Application Workflow
 User Input
+   
    ↓
+
 Expense Management
+  
    ↓
+
 Data Aggregation
+  
    ↓
+
 Analytics Visualization
+   
    ↓
+
 Expense Monitoring
 
 ## Project Structure
 expense_tracker/
+
 │
+
 ├── lib/
+
 │   └── main.dart
+
 │
+
 ├── pubspec.yaml
+
 ├── README.md
+
 └── analysis_options.yaml
 
 ## Analytics Generated
